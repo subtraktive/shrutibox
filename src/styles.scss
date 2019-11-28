@@ -1,0 +1,19 @@
+.controlContainer,
+.volume {
+    display: flex;
+    flex-direction: row;
+}
+
+.button {
+    width: 200px;
+    height: 80px;
+    line-height: 80px;
+    margin: 5px;
+    background: rgba(200, 45, 28, .4);
+    text-align: center;
+}
+
+.test {
+    background: red;
+}
+
